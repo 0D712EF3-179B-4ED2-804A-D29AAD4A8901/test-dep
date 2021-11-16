@@ -1,5 +1,5 @@
 package lib
 
 func Test() {
-	print("Hello test")
+	print("Hello test v2")
 }
